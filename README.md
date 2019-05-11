@@ -1,5 +1,12 @@
 # Tidying Data with R (dplyr and tidyr)
 
+1. Column headers that are values
+2. Multiple variables in one column
+3. Variables stored in rows and columns
+4. Multiple observational units in the same table
+5. Single observational unit in multiple tables
+6. Final example
+
 ## 1. Column headers that are values
 
 | The first problem is when you have column headers that are values, not variable names. I've
