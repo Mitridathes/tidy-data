@@ -21,7 +21,7 @@
 | use the gather() function from tidyr to accomplish this. Pull up the documentation for this
 | function with ?gather.
 
-
+![Tidy1_2](/images/Tidy1_2.png)
 
 | Each row of the data now represents exactly one observation, characterized by a unique
 | combination of the grade and sex variables. Each of our variables (grade, sex, and count)
