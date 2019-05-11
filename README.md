@@ -6,7 +6,7 @@
 | created a simple dataset called 'students' that demonstrates this scenario. Type students to
 | take a look.
 
-
+![Tidy1_1](./images/Tidy1_1)
 
 | The first column represents each of five possible grades that students could receive for a
 | particular class. The second and third columns give the number of male and female students,
