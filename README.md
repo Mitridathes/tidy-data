@@ -1,4 +1,4 @@
-# Tidying-data
+# Tidying Data with R (dplyr and tidyr)
 
 ## 1. Column headers that are values
 
